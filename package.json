@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Pomegranate/pomegranate-sequelize-core/issues"
   },
-  "homepage": "https://github.com/Pomegranate/pomegranate-sequelize-core"
+  "homepage": "https://github.com/Pomegranate/pomegranate-sequelize-core",
+  "dependencies": {
+    "sequelize": "^3.20.0"
+  }
 }
