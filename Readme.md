@@ -7,7 +7,7 @@ If you are not planning on writing your own model loader, consider using one of 
 * [pomegranate-sequelize-pg](https://github.com/Pomegranate/pomegranate-sequelize-pg)
 * all other sequelize supported DBs to come.
 
-##Install
+## Install
 
 Simply
 
