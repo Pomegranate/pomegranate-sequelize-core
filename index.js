@@ -14,7 +14,6 @@ var Sequelize = require('sequelize')
 
 exports.metadata = {
   name: 'Sequelize',
-  layer: 'core',
   param: 'SQL',
   type: 'merge'
 }
