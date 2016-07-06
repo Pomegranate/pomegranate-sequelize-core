@@ -13,7 +13,7 @@ var Sequelize = require('sequelize')
  */
 
 exports.metadata = {
-  name: 'Sequelize',
+  name: 'SequelizeCore',
   param: 'SQL',
   type: 'merge'
 }
