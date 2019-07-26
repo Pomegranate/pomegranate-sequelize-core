@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Pomegranate/pomegranate-sequelize-core",
   "dependencies": {
-    "sequelize": "^4.28.1"
+    "sequelize": "^4.44.2"
   }
 }
