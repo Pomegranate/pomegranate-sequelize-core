@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-sequelize-core",
-  "version": "3.0.0",
+  "version": "2.1.0",
   "description": "Provides sequelize to downstream plugins.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Pomegranate/pomegranate-sequelize-core",
   "dependencies": {
-    "sequelize": "^4.28.1"
+    "sequelize": "^3.35.1"
   }
 }
